@@ -48,4 +48,9 @@ Here are some web pages that you may need to refer to:
      - Yu-Gi-Oh! Trading Cards Dataset
       -https://www.kaggle.com/tathor/yugioh-trading-cards-dataset/data
       - YuGiOh is a card game that I have a lot of interest in and I think it would be fun to explore the most common card type or              monster attributes given the over 6,000 cards included in this data set.
-  
+    Adriana Lara datasets for project
+     - https://github.com/mledoze/countries
+     - https://github.com/FootballData/footballdata.github.io/blob/master/football-data-players.html
+     - https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset I acutually find this really interesting and        
+     this will probably be my first choice 
+     
